@@ -1,8 +1,26 @@
 const express = require("express");
 const fs = require("node:fs");
 const path = require("node:path");
+const cors = require("cors");
+
+const corsOptions = {
+  origin: ["http://172.20.10.2:3001", "https://cycle-shop.vercel.app"],
+  methods: ["GET", "POST", "PUT", "DELETE", "PATCH", "HEAD", "OPTIONS"],
+  allowedHeaders: [
+    "Content-Type",
+    "Origin",
+    "X-Requested-With",
+    "Accept",
+    "x-client-key",
+    "x-client-token",
+    "x-client-secret",
+    "Authorization",
+  ],
+  credentials: true,
+};
 
 const app = express();
+app.use(cors(corsOptions));
 
 app.get("/", (req, res) => {
   res.sendFile(path.join(__dirname, "/index.html"));
