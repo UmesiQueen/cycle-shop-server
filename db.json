@@ -1,0 +1,370 @@
+[
+  {
+    "productId": 1,
+    "productType": "Accessories",
+    "name": "Bicycle Gloves Yellow",
+    "slug": "bicycle-gloves-yellow",
+    "src": "./src/images/accessories/accessories-1.jpg",
+    "srcSet": [
+      "./src/images/accessories/accessories-1-100x100.jpg 100w",
+      "./src/images/accessories/accessories-1-150x150.jpg 150w",
+      "./src/images/accessories/accessories-1-300x300.jpg 300w",
+      "./src/images/accessories/accessories-1-400x400.jpg 400w",
+      "./src/images/accessories/accessories-1-768x768.jpg 768w",
+      "./src/images/accessories/accessories-1-800x800.jpg 800w",
+      "./src/images/accessories/accessories-1.jpg 1000w"
+    ],
+    "prices": [
+      {
+        "size": "l",
+        "cost": "30.00"
+      },
+      {
+        "size": "m",
+        "cost": "35.00"
+      },
+      {
+        "size": "xl",
+        "cost": "40.00"
+      }
+    ]
+  },
+  {
+    " productId": 2,
+    "productType": "Accessories",
+    "name": "Bicycle Gloves Gold",
+    "slug": "bicycle-gloves-gold",
+    "src": "./src/images/accessories/accessories-2.jpg",
+    "srcSet": [
+      "./src/images/accessories/accessories-2-100x100.jpg 100w",
+      "./src/images/accessories/accessories-2-150x150.jpg 150w",
+      "./src/images/accessories/accessories-2-300x300.jpg 300w",
+      "./src/images/accessories/accessories-2-400x400.jpg 400w",
+      "./src/images/accessories/accessories-2-768x768.jpg 768w",
+      "./src/images/accessories/accessories-2-800x800.jpg 800w",
+      "./src/images/accessories/accessories-2.jpg 1000w"
+    ],
+    "prices": [
+      {
+        "size": "l",
+        "cost": "30.00"
+      },
+      {
+        "size": "m",
+        "cost": "40.00"
+      },
+      {
+        "size": "xl",
+        "cost": "50.00"
+      }
+    ]
+  },
+  {
+    " productId": 3,
+    "productType": "Accessories",
+    "name": "Bicycle Gloves Red",
+    "slug": "bicycle-gloves-red",
+    "src": "./src/images/accessories/accessories-3.jpg",
+    "srcSet": [
+      "./src/images/accessories/accessories-3-100x100.jpg 100w",
+      "./src/images/accessories/accessories-3-150x150.jpg 150w",
+      "./src/images/accessories/accessories-3-300x300.jpg 300w",
+      "./src/images/accessories/accessories-3-400x400.jpg 400w",
+      "./src/images/accessories/accessories-3-768x768.jpg 768w",
+      "./src/images/accessories/accessories-3-800x800.jpg 800w",
+      "./src/images/accessories/accessories-3.jpg 1000w"
+    ],
+    "prices": [
+      {
+        "size": "l",
+        "cost": "145.00"
+      },
+      {
+        "size": "m",
+        "cost": "155.00"
+      },
+      {
+        "size": "xl",
+        "cost": "165.00"
+      }
+    ]
+  },
+  {
+    " productId": 4,
+    "productType": "Accessories",
+    "name": "Bicycle Gloves Blue",
+    "slug": "bicycle-gloves-blue",
+    "src": "./src/images/accessories/accessories-4.jpg",
+    "srcSet": [
+      "./src/images/accessories/accessories-4-100x100.jpg 100w",
+      "./src/images/accessories/accessories-4-150x150.jpg 150w",
+      "./src/images/accessories/accessories-4-300x300.jpg 300w",
+      "./src/images/accessories/accessories-4-400x400.jpg 400w",
+      "./src/images/accessories/accessories-4-768x768.jpg 768w",
+      "./src/images/accessories/accessories-4-800x800.jpg 800w",
+      "./src/images/accessories/accessories-4.jpg 1000w"
+    ],
+    "prices": [
+      {
+        "size": "l",
+        "cost": "27.00"
+      },
+      {
+        "size": "m",
+        "cost": "30.00"
+      },
+      {
+        "size": "xl",
+        "cost": "35.00"
+      }
+    ]
+  },
+  {
+    " productId": 5,
+    "productType": "Accessories",
+    "name": "Bicycle Gloves Pink",
+    "slug": "bicycle-gloves-pink",
+    "src": "./src/images/accessories/accessories-5.jpg",
+    "srcSet": [
+      "./src/images/accessories/accessories-5-100x100.jpg 100w",
+      "./src/images/accessories/accessories-5-150x150.jpg 150w",
+      "./src/images/accessories/accessories-5-300x300.jpg 300w",
+      "./src/images/accessories/accessories-5-400x400.jpg 400w",
+      "./src/images/accessories/accessories-5-768x768.jpg 768w",
+      "./src/images/accessories/accessories-5-800x800.jpg 800w",
+      "./src/images/accessories/accessories-5.jpg 1000w"
+    ],
+    "prices": [
+      {
+        "size": "l",
+        "cost": "27.00"
+      },
+      {
+        "size": "m",
+        "cost": "28.00"
+      },
+      {
+        "size": "xl",
+        "cost": "35.00"
+      }
+    ]
+  },
+  {
+    " productId": 6,
+    "productType": "Accessories",
+    "name": "Bicycle Helmet Pink",
+    "slug": "bicycle-helmet-pink",
+    "src": "./src/images/accessories/helmet-1.jpg",
+    "srcSet": [
+      "./src/images/accessories/helmet-1-100x100.jpg 100w",
+      "./src/images/accessories/helmet-1-150x150.jpg 150w",
+      "./src/images/accessories/helmet-1-300x300.jpg 300w",
+      "./src/images/accessories/helmet-1-400x400.jpg 400w",
+      "./src/images/accessories/helmet-1-768x768.jpg 768w",
+      "./src/images/accessories/helmet-1-800x800.jpg 800w",
+      "./src/images/accessories/helmet-1.jpg 1000w"
+    ],
+    "prices": [
+      {
+        "size": "l",
+        "cost": "180.00"
+      },
+      {
+        "size": "m",
+        "cost": "190.00"
+      },
+      {
+        "size": "xl",
+        "cost": "200.00"
+      }
+    ]
+  },
+  {
+    " productId": 7,
+    "productType": "Accessories",
+    "name": "Bicycle Helmet Sky Blue",
+    "slug": "bicycle-helmet-sky-blue",
+    "src": "./src/images/accessories/helmet-2.jpg",
+    "srcSet": [
+      "./src/images/accessories/helmet-2-100x100.jpg 100w",
+      "./src/images/accessories/helmet-2-150x150.jpg 150w",
+      "./src/images/accessories/helmet-2-300x300.jpg 300w",
+      "./src/images/accessories/helmet-2-400x400.jpg 400w",
+      "./src/images/accessories/helmet-2-768x768.jpg 768w",
+      "./src/images/accessories/helmet-2-800x800.jpg 800w",
+      "./src/images/accessories/helmet-2.jpg 1000w"
+    ],
+    "prices": [
+      {
+        "size": "l",
+        "cost": "150.00"
+      },
+      {
+        "size": "m",
+        "cost": "165.00"
+      },
+      {
+        "size": "xl",
+        "cost": "175.00"
+      }
+    ]
+  },
+  {
+    " productId": 8,
+    "productType": "Accessories",
+    "name": "Bicycle Helmet Green",
+    "slug": "bicycle-helmet-green",
+    "src": "./src/images/accessories/helmet-3.jpg",
+    "srcSet": [
+      "./src/images/accessories/helmet-3-100x100.jpg 100w",
+      "./src/images/accessories/helmet-3-150x150.jpg 150w",
+      "./src/images/accessories/helmet-3-300x300.jpg 300w",
+      "./src/images/accessories/helmet-3-400x400.jpg 400w",
+      "./src/images/accessories/helmet-3-768x768.jpg 768w",
+      "./src/images/accessories/helmet-3-800x800.jpg 800w",
+      "./src/images/accessories/helmet-3.jpg 1000w"
+    ],
+    "prices": [
+      {
+        "size": "l",
+        "cost": "135.00"
+      },
+      {
+        "size": "m",
+        "cost": "145.00"
+      },
+      {
+        "size": "xl",
+        "cost": "160.00"
+      }
+    ]
+  },
+  {
+    " productId": 9,
+    "productType": "Accessories",
+    "name": "Bicycle Helmet Red",
+    "slug": "bicycle-helmet-red",
+    "src": "./src/images/accessories/helmet-4.jpg",
+    "srcSet": [
+      "./src/images/accessories/helmet-4-100x100.jpg 100w",
+      "./src/images/accessories/helmet-4-150x150.jpg 150w",
+      "./src/images/accessories/helmet-4-300x300.jpg 300w",
+      "./src/images/accessories/helmet-4-400x400.jpg 400w",
+      "./src/images/accessories/helmet-4-768x768.jpg 768w",
+      "./src/images/accessories/helmet-4-800x800.jpg 800w",
+      "./src/images/accessories/helmet-4.jpg 1000w"
+    ],
+    "prices": [
+      {
+        "size": "l",
+        "cost": "200.00"
+      },
+      {
+        "size": "m",
+        "cost": "215.00"
+      },
+      {
+        "size": "xl",
+        "cost": "255.00"
+      }
+    ]
+  },
+  {
+    " productId": 10,
+    "productType": "Accessories",
+    "name": "Bicycle Helmet Blue",
+    "slug": "bicycle-helmet-blue",
+    "src": "./src/images/accessories/helmet-5.jpg",
+    "srcSet": [
+      "./src/images/accessories/helmet-5-100x100.jpg 100w",
+      "./src/images/accessories/helmet-5-150x150.jpg 150w",
+      "./src/images/accessories/helmet-5-300x300.jpg 300w",
+      "./src/images/accessories/helmet-5-400x400.jpg 400w",
+      "./src/images/accessories/helmet-5-768x768.jpg 768w",
+      "./src/images/accessories/helmet-5-800x800.jpg 800w",
+      "./src/images/accessories/helmet-5.jpg 1000w"
+    ],
+    "prices": [
+      {
+        "size": "l",
+        "cost": "125.00"
+      },
+      {
+        "size": "m",
+        "cost": "130.00"
+      },
+      {
+        "size": "xl",
+        "cost": "135.00"
+      }
+    ]
+  },
+  {
+    " productId": 11,
+    "productType": "Bicycles",
+    "name": "Kryo X26 MTB – Model K",
+    "slug": "kyro-x26-mtb-model-k",
+    "src": "./src/images/bicycle/bicycle-1.jpg",
+    "srcSet": [
+      "./src/images/bicycle/bicycle-1-100x100.jpg 100w",
+      "./src/images/bicycle/bicycle-1-150x150.jpg 150w",
+      "./src/images/bicycle/bicycle-1-300x300.jpg 300w",
+      "./src/images/bicycle/bicycle-1-400x400.jpg 400w",
+      "./src/images/bicycle/bicycle-1-768x768.jpg 768w",
+      "./src/images/bicycle/bicycle-1-800x800.jpg 800w",
+      "./src/images/bicycle/bicycle-1.jpg 1000w"
+    ],
+    "price": "350.00"
+  },
+  {
+    " productId": 12,
+    "productType": "Bicycles",
+    "name": "Kryo X26 MTB – Model X",
+    "slug": "kyro-x26-mtb-model-x",
+    "src": "./src/images/bicycle/bicycle-2.jpg",
+    "srcSet": [
+      "./src/images/bicycle/bicycle-2-100x100.jpg 100w",
+      "./src/images/bicycle/bicycle-2-150x150.jpg 150w",
+      "./src/images/bicycle/bicycle-2-300x300.jpg 300w",
+      "./src/images/bicycle/bicycle-2-400x400.jpg 400w",
+      "./src/images/bicycle/bicycle-2-768x768.jpg 768w",
+      "./src/images/bicycle/bicycle-2-800x800.jpg 800w",
+      "./src/images/bicycle/bicycle-2.jpg 1000w"
+    ],
+    "price": "350.00"
+  },
+  {
+    " productId": 13,
+    "productType": "Bicycles",
+    "name": "Kryo X26 MTB – Model Y",
+    "slug": "kyro-x26-mtb-model-y",
+    "src": "./src/images/bicycle/bicycle-3.jpg",
+    "srcSet": [
+      "./src/images/bicycle/bicycle-3-100x100.jpg 100w",
+      "./src/images/bicycle/bicycle-3-150x150.jpg 150w",
+      "./src/images/bicycle/bicycle-3-300x300.jpg 300w",
+      "./src/images/bicycle/bicycle-3-400x400.jpg 400w",
+      "./src/images/bicycle/bicycle-3-768x768.jpg 768w",
+      "./src/images/bicycle/bicycle-3-800x800.jpg 800w",
+      "./src/images/bicycle/bicycle-3.jpg 1000w"
+    ],
+    "price": "350.00"
+  },
+  {
+    " productId": 14,
+    "productType": "Bicycles",
+    "name": "Kryo X26 MTB – Model Z",
+    "slug": "kyro-x26-mtb-model-k",
+    "src": "./src/images/bicycle/bicycle-4.jpg",
+    "srcSet": [
+      "./src/images/bicycle/bicycle-4-100x100.jpg 100w",
+      "./src/images/bicycle/bicycle-4-150x150.jpg 150w",
+      "./src/images/bicycle/bicycle-4-300x300.jpg 300w",
+      "./src/images/bicycle/bicycle-4-400x400.jpg 400w",
+      "./src/images/bicycle/bicycle-4-768x768.jpg 768w",
+      "./src/images/bicycle/bicycle-4-800x800.jpg 800w",
+      "./src/images/bicycle/bicycle-4.jpg 1000w"
+    ],
+    "price": "350.00"
+  }
+]
