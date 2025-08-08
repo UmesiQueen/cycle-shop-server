@@ -30,11 +30,31 @@ app.get("/api/products", (req, res) => {
   const jsonPath = "./db.json";
 
   fs.readFile(jsonPath, "utf8", (err, data) => {
-    // Read/modify file data here
     res.send(JSON.parse(data));
     if (err) console.log(err, "err occurred");
   });
 });
+
+
+app.get("/api/products/:slug", (req, res) => {
+  const jsonPath = "./db.json";
+  const slug = req.params.slug;
+
+  fs.readFile(jsonPath, "utf8", (err, data) => {
+    if (err) {
+      console.log(err, "err occurred");
+      return res.status(500).json({ error: "Internal server error" });
+    }
+    const products = JSON.parse(data);
+    const product = products.find((p) => p.slug === slug);
+    if (!product) {
+      return res.status(404).json({ error: "Product not found" });
+    }
+    res.json(product);
+  });
+});
+
+
 
 const port = process.env.PORT || 5000;
 
