@@ -4,7 +4,7 @@ const path = require("node:path");
 const cors = require("cors");
 
 const corsOptions = {
-  origin: ["http://172.20.10.2:3001", "https://cycle-shop.vercel.app"],
+  origin: ["http://localhost:3000", "https://cycle-shop.vercel.app"],
   methods: ["GET", "POST", "PUT", "DELETE", "PATCH", "HEAD", "OPTIONS"],
   allowedHeaders: [
     "Content-Type",
